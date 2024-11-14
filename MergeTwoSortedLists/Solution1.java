@@ -1,7 +1,4 @@
 package MergeTwoSortedLists;
-
-import java.lang.classfile.components.ClassPrinter;
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {
